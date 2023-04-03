@@ -1,4 +1,6 @@
 <?php
+//Jaime Arnoldo Rodriguez Meza
+//Oscar Rene Mondragon Orellana
 interface Ave {
     public function nadar(): bool;
     public function volar(): bool;
